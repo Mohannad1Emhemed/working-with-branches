@@ -3,3 +3,5 @@ Apple
 Respberry
 Melon
 Grapes
+Bananas
+Peaches
